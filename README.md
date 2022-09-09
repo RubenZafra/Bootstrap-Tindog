@@ -1,1 +1,3 @@
-TinDog Starting Files
+TinDog | 
+
+Tinder ripoff for dogs, Tindog! No Javascript.
